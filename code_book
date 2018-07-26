@@ -1,0 +1,57 @@
+Code book
+
+The following are the details of various activities for each subject and the details of the variables in used for the analysis.
+Activities:
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
+Subjects: These refer to the volunteers named using an ID: "1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30"
+Each of the volunteers has participated in the above mentioned activities and measurements are taken for each activity.
+
+Measurements: In the measurements, Mean means mean value, Stdev means standard deviation, X, Y and Z refer to the three directions of measurements
+The names are self explanatory. 
+
+TimeBodyAccMeanX
+TimeBodyAccMeanZ
+TimeGravityAccMeanY
+TimeBodyAccJerkMeanX
+TimeBodyAccJerkMeanZ
+TimeBodyGyroMeanY
+TimeBodyGyroJerkMeanX
+TimeBodyGyroJerkMeanZ
+TimeGravityAccMagnitudeMean
+TimeBodyGyroMagnitudeMean
+FreqBodyAccMeanX
+FreqBodyAccMeanZ
+FreqBodyAccMeanFreqY
+FreqBodyAccJerkMeanX
+FreqBodyAccJerkMeanZ
+FreqBodyAccJerkMeanFreqY
+FreqBodyGyroMeanX
+FreqBodyGyroMeanZ
+FreqBodyGyroMeanFreqY
+FreqBodyAccMagnitudeMean
+FreqBodyBodyAccJerkMagnitudenitudeMean
+FreqBodyBodyGyroMagnitudeMean
+FreqBodyBodyGyroJerkMagnitudeMean
+TimeBodyAccStdevX
+TimeBodyAccStdevZ
+TimeGravityAccStdevY
+TimeBodyAccJerkStdevX
+TimeBodyAccJerkStdevZ
+TimeBodyGyroStdevY
+TimeBodyGyroJerkStdevX
+TimeBodyGyroJerkStdevZ
+TimeGravityAccMagnitudeStdev
+TimeBodyGyroMagnitudeStdev
+FreqBodyAccStdevX
+FreqBodyAccStdevZ
+FreqBodyAccJerkStdevY
+FreqBodyGyroStdevX
+FreqBodyGyroStdevZ
+FreqBodyBodyAccJerkMagnitudenitudeStdev
+FreqBodyBodyGyroJerkMagnitudeStdev
